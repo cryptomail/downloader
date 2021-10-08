@@ -2,7 +2,7 @@ require 'octokit'
 require 'pry'
 
 FILENAME = "repositories.txt"
-ORGANIZATION = "zendesk"
+ORGANIZATION = "twitch"
 # Provide authentication credentials
 #Set access_token instead of login and password if you use personal access token
 token = ENV["GITHUB_TOKEN"]
