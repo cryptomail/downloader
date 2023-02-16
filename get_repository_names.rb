@@ -1,5 +1,4 @@
 require 'octokit'
-require 'pry'
 
 FILENAME = "repositories.txt"
 ORGANIZATION = "twitch"
